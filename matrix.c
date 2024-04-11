@@ -24,6 +24,7 @@ int main(){
 printf("[----- [Gahyun]  [2020045070] -----]\n");
 
 int row,col;
+
 //랜덤생성함수
 srand(time(NULL));
 
